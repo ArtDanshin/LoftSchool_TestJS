@@ -2,10 +2,10 @@
 
 # Как установить
 
-1. git clone https://github.com/SilverDragoon/backbone-learn.git Backbone-Learn
+1. git clone https://github.com/SilverDragoon/LoftSchool_TestJS.git
 2. cd !$
-3. bower i
-4. npm i
+3. npm i
+4. bower i
 5. gulp
 
 
