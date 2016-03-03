@@ -470,6 +470,9 @@ body {
   background-color: #ff8663;
   color: #ffffff;
 }
+.arcad-list__item .arcad-list-item__title:hover {
+  cursor: pointer;
+}
 
 .arcad-child-list {
   font-family: fira_sanslight;
