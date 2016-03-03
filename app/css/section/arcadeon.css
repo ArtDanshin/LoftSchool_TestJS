@@ -31,6 +31,7 @@
 .arcad-list__item {
   background-color: #e7e7e7;
   border-radius: 20px;
+  margin-bottom: 5px;
 }
 .arcad-list__item:nth-child(odd) .arcad-list-item__title {
   background-color: #696666;
@@ -42,7 +43,7 @@
   background-color: #e7e7e7;
   color: #696666;
   border-radius: 20px;
-  padding: 10px 20px;
+  padding: 9px 20px;
 }
 .arcad-list__item .arcad-list-item__title.active {
   background-color: #ff8663;
